@@ -1,0 +1,23 @@
+
+\begin{frame}{$R^{3}$ metric}
+  \begin{block}{Definition}
+    \[
+      R^{3} = \frac{C(X)}{C(O_{\mathcal{T}})}
+    \]
+  \end{block}
+
+  \begin{itemize}
+    \item $X$: the \textbf{optimal traversal order} (minimal-cost path)
+    \item $O_{\mathcal{T}}$: traversal order produced by the link prioritization algorithm
+    \item $C(\cdot)$: The total cost of all arcs in the traversal path
+  \end{itemize}
+  \vspace{0.8em}
+  \begin{exampleblock}{Interpretation}
+    \begin{itemize}
+      \item $R^{3} = 1$ → perfect match with the optimal traversal  
+      \item $R^{3} < 1$ → deviation from optimal performance  
+      \item \textbf{Higher values indicate better prioritization quality.}
+    \end{itemize}
+  \end{exampleblock}
+
+\end{frame}
