@@ -1,0 +1,171 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{hanski2025link}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=1b4cd3ac4e9c025962a7b2ee1ec5755b}{%
+           family={Hanski},
+           familyi={H\bibinitperiod},
+           given={Jonni},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a4a7981b8940087b28687cad3901c1a6}{%
+           family={Van\bibnamedelima Braeckel},
+           familyi={V\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f9a485a3b7f133ec13b1eba6b475851f}{%
+           family={Taelman},
+           familyi={T\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f6f7b1f03b36b6df0b508d6e0e17c85d}{%
+           family={Verborgh},
+           familyi={V\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0735e466e58b42fdb146e591994b046a}
+      \strng{fullhash}{63b1536aa80a41e3e757a057508d88db}
+      \strng{bibnamehash}{0735e466e58b42fdb146e591994b046a}
+      \strng{authorbibnamehash}{0735e466e58b42fdb146e591994b046a}
+      \strng{authornamehash}{0735e466e58b42fdb146e591994b046a}
+      \strng{authorfullhash}{63b1536aa80a41e3e757a057508d88db}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Web Engineering}
+      \field{title}{Link Traversal over Decentralised Environments using Restart-Based Query Planning}
+      \field{year}{2025}
+    \endentry
+    \entry{hartig2016walking}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=2076c60fe17dc3769696535197077f9a}{%
+           family={Hartig},
+           familyi={H\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=8de26f099b6c8ff3bfc537e43f7a9a84}{%
+           family={Özsu},
+           familyi={Ö\bibinitperiod},
+           given={M\bibnamedelima Tamer},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{eb4c9f37520f995a3b535dc61db785f3}
+      \strng{fullhash}{eb4c9f37520f995a3b535dc61db785f3}
+      \strng{bibnamehash}{eb4c9f37520f995a3b535dc61db785f3}
+      \strng{authorbibnamehash}{eb4c9f37520f995a3b535dc61db785f3}
+      \strng{authornamehash}{eb4c9f37520f995a3b535dc61db785f3}
+      \strng{authorfullhash}{eb4c9f37520f995a3b535dc61db785f3}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Semantic Web Conference}
+      \field{title}{Walking without a map: Ranking-based traversal for querying linked data}
+      \field{year}{2016}
+      \field{pages}{305\bibrangedash 324}
+      \range{pages}{20}
+    \endentry
+    \entry{taelman2023link}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=f9a485a3b7f133ec13b1eba6b475851f}{%
+           family={Taelman},
+           familyi={T\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f6f7b1f03b36b6df0b508d6e0e17c85d}{%
+           family={Verborgh},
+           familyi={V\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c794232c5519593635453da074d6dc81}
+      \strng{fullhash}{c794232c5519593635453da074d6dc81}
+      \strng{bibnamehash}{c794232c5519593635453da074d6dc81}
+      \strng{authorbibnamehash}{c794232c5519593635453da074d6dc81}
+      \strng{authornamehash}{c794232c5519593635453da074d6dc81}
+      \strng{authorfullhash}{c794232c5519593635453da074d6dc81}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Semantic Web Conference}
+      \field{title}{Link traversal query processing over decentralized environments with structural assumptions}
+      \field{year}{2023}
+      \field{pages}{3\bibrangedash 22}
+      \range{pages}{20}
+    \endentry
+    \entry{tam2024opportunities}{article}{}
+      \name{author}{4}{}{%
+        {{hash=1530414fc99c67bf54591ca8ec5a86a2}{%
+           family={Tam},
+           familyi={T\bibinitperiod},
+           given={Bryan-Elliott},
+           giveni={B\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=f9a485a3b7f133ec13b1eba6b475851f}{%
+           family={Taelman},
+           familyi={T\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+        {{hash=53f6105c441349d83d9fcbf7eb9640b5}{%
+           family={Colpaert},
+           familyi={C\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=f6f7b1f03b36b6df0b508d6e0e17c85d}{%
+           family={Verborgh},
+           familyi={V\bibinitperiod},
+           given={Ruben},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{808756d00850839ccf0eb3a52b137f33}
+      \strng{fullhash}{6dfff61c1927c171335ce8db4d2c55ae}
+      \strng{bibnamehash}{808756d00850839ccf0eb3a52b137f33}
+      \strng{authorbibnamehash}{808756d00850839ccf0eb3a52b137f33}
+      \strng{authornamehash}{808756d00850839ccf0eb3a52b137f33}
+      \strng{authorfullhash}{6dfff61c1927c171335ce8db4d2c55ae}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:2407.00998}
+      \field{title}{Opportunities for Shape-based Optimization of Link Traversal Queries}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

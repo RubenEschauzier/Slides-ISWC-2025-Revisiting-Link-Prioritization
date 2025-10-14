@@ -1,5 +1,5 @@
 
-\begin{frame}{Prioritization algorithms}
+\begin{frame}{Prioritization algorithms \parencite{hartig2016walking}}
   \begin{block}{Non-adaptive}
     \begin{itemize}
         \item Breadth-first (default), depth-first, random prioritization
@@ -12,8 +12,8 @@
   \end{block}
   \begin{block}{Result-based}
         \begin{itemize}
-        \item Uses result contribution count (RCC) of each node (URI) in the topology
-        \item Priority set based on the sum or count of non-zero RCC of the 1 or 2-hop in-neighbours of a node
+        \item Uses result contribution count (RCC) of each node (URI)
+        \item Priority equal to the sum / count of non-zero RCC of the 1 or 2-hop in-neighbours of a node
         \item Called rcc-1, rcc-2, rel-1, rel-2 respectively. 
     \end{itemize}
   \end{block}
@@ -23,7 +23,7 @@
   \begin{block}{Intermediate-results}
         \begin{itemize}
         \item Uses intermediate solutions in the engine
-        \item Priority of URI is determined by the largest intermediate result with that URI bound
+        \item Priority of URI equal to the largest intermediate result with that URI bound
         \item \emph{IS} sets initial priorities to 0, while \emph{ISdcr} sets priority to the priority of the parent node - 1
     \end{itemize}
   \end{block}

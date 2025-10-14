@@ -1,0 +1,46 @@
+
+\begin{frame}{Results}
+  \vspace{-0.5cm}
+  \begin{center}
+    \includegraphics[width=\linewidth,height=0.7\textheight,keepaspectratio]{images/centralize-personal-data-stores-no.pdf}
+  \end{center}
+  \vspace{0.3cm}
+
+  \begin{center}
+    \small
+    \begin{itemize}
+        \item TODO: Insert image from paper here (discover 2 and 8)
+        \item Breadth-first outperforms most algorithms
+        \item Oracle has significantly better $R^{3}$, but not execution time
+    \end{itemize}
+  \end{center}
+\end{frame}
+
+\begin{frame}{Results}
+  \small % or \footnotesize, \scriptsize
+  \captionsetup[table]{skip=10pt, font=footnotesize }
+  \begin{table}[!ht]
+    \centering
+    \begin{adjustbox}{width=0.9\textwidth} % or e.g., 0.8\textwidth
+      \begin{tabular}{l|rr|rr|rr}
+        & \multicolumn{2}{c}{$1st$} & \multicolumn{2}{c}{$Cmpl$} & \multicolumn{2}{c}{$R^{3}$} \\
+        & better & worse & better & worse & better & worse  \\
+        \midrule
+        \bf depth-first & \underline{15.7} & \underline{17.1} & \underline{14.3} & 17.1 & 7.5 & 12.5  \\
+        \bf random & 4.3 & 68.6 & 5.7 & 74.3 & \underline{15.0} & 15.0 \\
+        \hline
+        \bf is-rcc-1 & 4.3 & 57.1 & 5.7 & 60.0 & 7.5 & \underline{5.0} \\
+        \hline
+        \bf type-index & \underline{15.7} & 18.6 & 10.0 & \underline{15.7} & 12.5 & 20.0 \\
+        \hline
+        \bf oracle & \underline{\underline{\textbf{18.6}}} & \underline{\underline{\textbf{11.4}}} 
+        & \underline{\underline{\textbf{18.6}}} & \underline{\underline{\textbf{12.9}}} 
+        & \underline{\underline{\textbf{25.0}}} & \underline{\underline{\textbf{2.5}}} \\
+      \end{tabular}
+    \end{adjustbox}
+    \caption{Percentage of queries for which an algorithm performs at least 10\% better or worse than the breadth-first baseline.}
+  \end{table}
+  \begin{itemize}
+    \item No algorithm improves performance, and the oracle only marginally improves performance
+  \end{itemize}
+\end{frame}
