@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  28 OCT 2025 11:46
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  28 OCT 2025 16:42
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1654,64 +1654,53 @@ Overfull \vbox (22.82602pt too high) detected at line 48
 [3
 
 <./images/decentralized-message-storage.pdf>]
-<images/centralize-personal-data-stores.pdf, id=67, 763.56131pt x 538.37837pt>
-File: images/centralize-personal-data-stores.pdf Graphic file (type pdf)
-<use images/centralize-personal-data-stores.pdf>
-Package luatex.def Info: images/centralize-personal-data-stores.pdf  used on in
-put line 65.
-(luatex.def)             Requested size: 239.00558pt x 168.52214pt.
+<images/how-to-find-sources.pdf, id=67, 510.58803pt x 645.75899pt>
+File: images/how-to-find-sources.pdf Graphic file (type pdf)
+<use images/how-to-find-sources.pdf>
+Package luatex.def Info: images/how-to-find-sources.pdf  used on input line 66.
+
+(luatex.def)             Requested size: 143.4048pt x 181.36307pt.
  [4
 
-<./images/centralize-personal-data-stores.pdf>]
-<images/centralize-personal-data-stores-no.pdf, id=97, 763.56131pt x 538.37837p
-t>
-File: images/centralize-personal-data-stores-no.pdf Graphic file (type pdf)
-<use images/centralize-personal-data-stores-no.pdf>
-Package luatex.def Info: images/centralize-personal-data-stores-no.pdf  used on
- input line 82.
-(luatex.def)             Requested size: 239.00558pt x 168.52214pt.
- [5
-
-<./images/centralize-personal-data-stores-no.pdf>])
-(./introduction/introduction_ltqp.tex
-<images/showing-link-traversal-step-0.pdf, id=127, 605.50919pt x 398.22562pt>
+<./images/how-to-find-sources.pdf>]) (./introduction/introduction_ltqp.tex
+<images/showing-link-traversal-step-0.pdf, id=79, 605.50919pt x 398.22562pt>
 File: images/showing-link-traversal-step-0.pdf Graphic file (type pdf)
 <use images/showing-link-traversal-step-0.pdf>
 Package luatex.def Info: images/showing-link-traversal-step-0.pdf  used on inpu
 t line 31.
 (luatex.def)             Requested size: 239.00558pt x 157.18497pt.
- [6
+ [5
 
 <./images/showing-link-traversal-step-0.pdf>]
-<images/showing-link-traversal-step-1.pdf, id=133, 605.50919pt x 398.22562pt>
+<images/showing-link-traversal-step-1.pdf, id=85, 605.50919pt x 398.22562pt>
 File: images/showing-link-traversal-step-1.pdf Graphic file (type pdf)
 <use images/showing-link-traversal-step-1.pdf>
 Package luatex.def Info: images/showing-link-traversal-step-1.pdf  used on inpu
-t line 48.
+t line 49.
 (luatex.def)             Requested size: 239.00558pt x 157.18497pt.
- [7
+ [6
 
 <./images/showing-link-traversal-step-1.pdf>]
-<images/showing-link-traversal-step-2.pdf, id=139, 605.50919pt x 398.22562pt>
+<images/showing-link-traversal-step-2.pdf, id=91, 605.50919pt x 398.22562pt>
 File: images/showing-link-traversal-step-2.pdf Graphic file (type pdf)
 <use images/showing-link-traversal-step-2.pdf>
 Package luatex.def Info: images/showing-link-traversal-step-2.pdf  used on inpu
-t line 65.
+t line 66.
 (luatex.def)             Requested size: 239.00558pt x 157.18497pt.
- [8
+ [7
 
 <./images/showing-link-traversal-step-2.pdf>]
-<images/showing-link-traversal-step-3.pdf, id=145, 605.50919pt x 398.22562pt>
+<images/showing-link-traversal-step-3.pdf, id=97, 605.50919pt x 398.22562pt>
 File: images/showing-link-traversal-step-3.pdf Graphic file (type pdf)
 <use images/showing-link-traversal-step-3.pdf>
 Package luatex.def Info: images/showing-link-traversal-step-3.pdf  used on inpu
-t line 85.
+t line 86.
 (luatex.def)             Requested size: 239.00558pt x 157.18497pt.
- [9
+ [8
 
-<./images/showing-link-traversal-step-3.pdf>])
-(./introduction/introduction_optimization.tex
-<images/hardToOptimizeLTQP.pdf, id=151, 333.6929pt x 486.79428pt>
+<./images/showing-link-traversal-step-3.pdf>]) (./introduction/introduction_opt
+imization.tex
+<images/hardToOptimizeLTQP.pdf, id=103, 333.6929pt x 486.79428pt>
 File: images/hardToOptimizeLTQP.pdf Graphic file (type pdf)
 <use images/hardToOptimizeLTQP.pdf>
 Package luatex.def Info: images/hardToOptimizeLTQP.pdf  used on input line 24.
@@ -1720,10 +1709,10 @@ Package luatex.def Info: images/hardToOptimizeLTQP.pdf  used on input line 24.
 Overfull \vbox (18.8011pt too high) detected at line 24
  []
 
-[10
+[9
 
 <./images/hardToOptimizeLTQP.pdf>]
-<images/query-planning.pdf, id=163, 586.8753pt x 707.49046pt>
+<images/query-planning.pdf, id=115, 586.8753pt x 707.49046pt>
 File: images/query-planning.pdf Graphic file (type pdf)
 <use images/query-planning.pdf>
 Package luatex.def Info: images/query-planning.pdf  used on input line 41.
@@ -1732,33 +1721,33 @@ Package luatex.def Info: images/query-planning.pdf  used on input line 41.
 Overfull \vbox (25.69443pt too high) detected at line 41
  []
 
-[11
+[10
 
 <./images/query-planning.pdf>]
-<images/link-queue.pdf, id=182, 638.06654pt x 496.5378pt>
+<images/link-queue.pdf, id=133, 638.06654pt x 496.5378pt>
 File: images/link-queue.pdf Graphic file (type pdf)
 <use images/link-queue.pdf>
 Package luatex.def Info: images/link-queue.pdf  used on input line 58.
 (luatex.def)             Requested size: 175.27061pt x 136.39299pt.
- [12
+ [11
 
 <./images/link-queue.pdf>]
-<images/link-queue-optimized.pdf, id=195, 638.06654pt x 496.5378pt>
+<images/link-queue-optimized.pdf, id=146, 638.06654pt x 496.5378pt>
 File: images/link-queue-optimized.pdf Graphic file (type pdf)
 <use images/link-queue-optimized.pdf>
 Package luatex.def Info: images/link-queue-optimized.pdf  used on input line 78
 .
 (luatex.def)             Requested size: 191.20518pt x 148.78822pt.
- [13
+ [12
 
 <./images/link-queue-optimized.pdf>]) (./problem-statement/problem-statement.te
-x [14
+x [13
 
 ]
-[15
+[14
 
 ]) (./r3-metric/motivation.tex) (./r3-metric/example.tex
-<images/r3-metric-bad-traversal.pdf, id=217, 605.50919pt x 398.22562pt>
+<images/r3-metric-bad-traversal.pdf, id=168, 605.50919pt x 398.22562pt>
 File: images/r3-metric-bad-traversal.pdf Graphic file (type pdf)
 <use images/r3-metric-bad-traversal.pdf>
 Package luatex.def Info: images/r3-metric-bad-traversal.pdf  used on input line
@@ -1792,7 +1781,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 19.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 19.
-<images/r3-metric-good-traversal.pdf, id=218, 605.50919pt x 398.22562pt>
+<images/r3-metric-good-traversal.pdf, id=169, 605.50919pt x 398.22562pt>
 File: images/r3-metric-good-traversal.pdf Graphic file (type pdf)
 <use images/r3-metric-good-traversal.pdf>
 Package luatex.def Info: images/r3-metric-good-traversal.pdf  used on input lin
@@ -1810,37 +1799,37 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
 Overfull \vbox (6.57915pt too high) detected at line 19
  []
 
-[16
+[15
 
 <./images/r3-metric-bad-traversal.pdf><./images/r3-metric-good-traversal.pdf>]) (./r3-metric/definition.tex
 Overfull \vbox (0.18176pt too high) detected at line 23
  []
 
-[17
+[16
 
 
 Missing character: There is no → (U+2192) in font ec-lmss10!
 Missing character: There is no → (U+2192) in font ec-lmss10!
-]) (./r3-metric/steiner-tree.tex [18
+]) (./r3-metric/steiner-tree.tex [17
 
 ]) (./solidbench/solidbench.tex
 Overfull \vbox (7.06624pt too high) detected at line 21
  []
 
-[19
+[18
 
-]) (./algorithms/used-algorithms.tex [20
+]) (./algorithms/used-algorithms.tex [19
 
 ]
-<images/rcc-based.pdf, id=259, 515.48003pt x 398.22562pt>
+<images/rcc-based.pdf, id=211, 515.48003pt x 398.22562pt>
 File: images/rcc-based.pdf Graphic file (type pdf)
 <use images/rcc-based.pdf>
 Package luatex.def Info: images/rcc-based.pdf  used on input line 39.
 (luatex.def)             Requested size: 239.00558pt x 184.63826pt.
- [21
+ [20
 
 <./images/rcc-based.pdf>]
-<images/intermediate-results-prioritization.pdf, id=272, 761.78094pt x 494.8346
+<images/intermediate-results-prioritization.pdf, id=223, 761.78094pt x 494.8346
 pt>
 File: images/intermediate-results-prioritization.pdf Graphic file (type pdf)
 <use images/intermediate-results-prioritization.pdf>
@@ -1848,16 +1837,16 @@ Package luatex.def Info: images/intermediate-results-prioritization.pdf  used o
 n input line 56.
 (luatex.def)             Requested size: 239.00558pt x 155.25456pt.
 
-[22
+[21
 
 <./images/intermediate-results-prioritization.pdf>]
 Overfull \vbox (6.30585pt too high) detected at line 90
  []
 
-[23
+[22
 
 ]) (./results/results.tex
-<images/combined_r3_timings_plot_non_relative_reduced_test.pdf, id=289, 2160.87
+<images/combined_r3_timings_plot_non_relative_reduced_test.pdf, id=241, 2160.87
 3pt x 1433.86278pt>
 File: images/combined_r3_timings_plot_non_relative_reduced_test.pdf Graphic fil
 e (type pdf)
@@ -1869,10 +1858,10 @@ est.pdf  used on input line 41.
 Overfull \vbox (22.03723pt too high) detected at line 41
  []
 
-[24
+[23
 
 <./images/combined_r3_timings_plot_non_relative_reduced_test.pdf>]
-<images/plot_color_annotated.pdf, id=365, 2189.32579pt x 1462.31549pt>
+<images/plot_color_annotated.pdf, id=317, 2189.32579pt x 1462.31549pt>
 File: images/plot_color_annotated.pdf Graphic file (type pdf)
 <use images/plot_color_annotated.pdf>
 Package luatex.def Info: images/plot_color_annotated.pdf  used on input line 45
@@ -1882,10 +1871,10 @@ Package luatex.def Info: images/plot_color_annotated.pdf  used on input line 45
 Overfull \vbox (23.45955pt too high) detected at line 45
  []
 
-[25
+[24
 
 <./images/plot_color_annotated.pdf>]
-<images/plot_dotted_annotated.pdf, id=1459, 2189.32579pt x 1462.31549pt>
+<images/plot_dotted_annotated.pdf, id=1410, 2189.32579pt x 1462.31549pt>
 File: images/plot_dotted_annotated.pdf Graphic file (type pdf)
 <use images/plot_dotted_annotated.pdf>
 Package luatex.def Info: images/plot_dotted_annotated.pdf  used on input line 4
@@ -1895,7 +1884,7 @@ Package luatex.def Info: images/plot_dotted_annotated.pdf  used on input line 4
 Overfull \vbox (23.45955pt too high) detected at line 49
  []
 
-[26
+[25
 
 <./images/plot_dotted_annotated.pdf>]
 File: images/combined_r3_timings_plot_non_relative_reduced_test.pdf Graphic fil
@@ -1908,7 +1897,7 @@ est.pdf  used on input line 53.
 Overfull \vbox (22.03723pt too high) detected at line 53
  []
 
-[27
+[26
 
 ]
 
@@ -1923,11 +1912,11 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 83; it cannot be
 Overfull \vbox (15.7453pt too high) detected at line 83
  []
 
-[28
+[27
 
-]) (./results/conclusion.tex [29
+]) (./results/conclusion.tex [28
 
-]) [30
+]) [29
 
 </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write7
@@ -1952,14 +1941,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 43011 strings out of 476553
+ 43024 strings out of 476553
  125031,1977958 words of node,token memory allocated
- 9045 words of node memory still in use:
-   44 hlist, 8 vlist, 9 rule, 63 disc, 6 local_par, 176 glue, 37 kern, 50 penalt
-y, 8 margin_kern, 663 glyph, 191 attribute, 81 glue_spec, 191 attribute_list, 8 
+ 9074 words of node memory still in use:
+   44 hlist, 8 vlist, 9 rule, 63 disc, 6 local_par, 176 glue, 39 kern, 50 penalt
+y, 9 margin_kern, 664 glyph, 193 attribute, 81 glue_spec, 193 attribute_list, 8 
 write, 4 pdf_dest, 58 pdf_colorstack nodes
-   avail lists: 1:2,2:317,3:207,4:216,5:198,6:39,7:1962,8:15,9:635,10:18,11:126
- 63763 multiletter control sequences out of 65536+600000
+   avail lists: 1:3,2:347,3:207,4:216,5:197,6:39,7:1959,8:15,9:635,10:18,11:126
+ 63781 multiletter control sequences out of 65536+600000
  86 fonts using 5789639 bytes
  115i,14n,133p,1870b,1987s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips
@@ -1974,10 +1963,10 @@ are/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/l
 msso8.pfb>
-Output written on main.pdf (30 pages, 2257195 bytes).
+Output written on main.pdf (29 pages, 1393944 bytes).
 
-PDF statistics: 2635 PDF objects out of 2984 (max. 8388607)
- 1719 compressed objects within 18 object streams
- 65 named destinations out of 1000 (max. 131072)
+PDF statistics: 2585 PDF objects out of 2984 (max. 8388607)
+ 1692 compressed objects within 17 object streams
+ 63 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
