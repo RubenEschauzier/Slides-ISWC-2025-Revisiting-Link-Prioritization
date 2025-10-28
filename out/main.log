@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  27 OCT 2025 21:43
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  28 OCT 2025 11:46
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1857,22 +1857,62 @@ Overfull \vbox (6.30585pt too high) detected at line 90
 [23
 
 ]) (./results/results.tex
-<images/reduced-result-plot-presentation.pdf, id=289, 1799.523pt x 1438.46622pt
->
-File: images/reduced-result-plot-presentation.pdf Graphic file (type pdf)
-<use images/reduced-result-plot-presentation.pdf>
-Package luatex.def Info: images/reduced-result-plot-presentation.pdf  used on i
-nput line 36.
-(luatex.def)             Requested size: 239.00558pt x 191.04582pt.
+<images/combined_r3_timings_plot_non_relative_reduced_test.pdf, id=289, 2160.87
+3pt x 1433.86278pt>
+File: images/combined_r3_timings_plot_non_relative_reduced_test.pdf Graphic fil
+e (type pdf)
+<use images/combined_r3_timings_plot_non_relative_reduced_test.pdf>
+Package luatex.def Info: images/combined_r3_timings_plot_non_relative_reduced_t
+est.pdf  used on input line 41.
+(luatex.def)             Requested size: 326.64055pt x 216.73294pt.
 
-Overfull \vbox (0.64832pt too high) detected at line 36
+Overfull \vbox (22.03723pt too high) detected at line 41
  []
 
 [24
 
-<./images/reduced-result-plot-presentation.pdf>]
+<./images/combined_r3_timings_plot_non_relative_reduced_test.pdf>]
+<images/plot_color_annotated.pdf, id=365, 2189.32579pt x 1462.31549pt>
+File: images/plot_color_annotated.pdf Graphic file (type pdf)
+<use images/plot_color_annotated.pdf>
+Package luatex.def Info: images/plot_color_annotated.pdf  used on input line 45
+.
+(luatex.def)             Requested size: 326.64055pt x 218.15526pt.
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 67; it cannot be
+Overfull \vbox (23.45955pt too high) detected at line 45
+ []
+
+[25
+
+<./images/plot_color_annotated.pdf>]
+<images/plot_dotted_annotated.pdf, id=1459, 2189.32579pt x 1462.31549pt>
+File: images/plot_dotted_annotated.pdf Graphic file (type pdf)
+<use images/plot_dotted_annotated.pdf>
+Package luatex.def Info: images/plot_dotted_annotated.pdf  used on input line 4
+9.
+(luatex.def)             Requested size: 326.64055pt x 218.15526pt.
+
+Overfull \vbox (23.45955pt too high) detected at line 49
+ []
+
+[26
+
+<./images/plot_dotted_annotated.pdf>]
+File: images/combined_r3_timings_plot_non_relative_reduced_test.pdf Graphic fil
+e (type pdf)
+<use images/combined_r3_timings_plot_non_relative_reduced_test.pdf>
+Package luatex.def Info: images/combined_r3_timings_plot_non_relative_reduced_t
+est.pdf  used on input line 53.
+(luatex.def)             Requested size: 326.64055pt x 216.73294pt.
+
+Overfull \vbox (22.03723pt too high) detected at line 53
+ []
+
+[27
+
+]
+
+Package fontspec Warning: \addfontfeature(s) ignored on line 83; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -1880,14 +1920,14 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 67; it cannot be
 (fontspec)                  The requested feature is "Numbers={Monospaced}". 
 
 
-Overfull \vbox (15.7453pt too high) detected at line 67
+Overfull \vbox (15.7453pt too high) detected at line 83
  []
 
-[25
+[28
 
-]) (./results/conclusion.tex [26
+]) (./results/conclusion.tex [29
 
-]) [27
+]) [30
 
 </usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write7
@@ -1912,14 +1952,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 42976 strings out of 476553
+ 43011 strings out of 476553
  125031,1977958 words of node,token memory allocated
  9045 words of node memory still in use:
    44 hlist, 8 vlist, 9 rule, 63 disc, 6 local_par, 176 glue, 37 kern, 50 penalt
 y, 8 margin_kern, 663 glyph, 191 attribute, 81 glue_spec, 191 attribute_list, 8 
 write, 4 pdf_dest, 58 pdf_colorstack nodes
    avail lists: 1:2,2:317,3:207,4:216,5:198,6:39,7:1962,8:15,9:635,10:18,11:126
- 63743 multiletter control sequences out of 65536+600000
+ 63763 multiletter control sequences out of 65536+600000
  86 fonts using 5789639 bytes
  115i,14n,133p,1870b,1987s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips
@@ -1934,10 +1974,10 @@ are/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/l
 msso8.pfb>
-Output written on main.pdf (27 pages, 1999787 bytes).
+Output written on main.pdf (30 pages, 2257195 bytes).
 
-PDF statistics: 442 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 131072)
+PDF statistics: 2635 PDF objects out of 2984 (max. 8388607)
+ 1719 compressed objects within 18 object streams
+ 65 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

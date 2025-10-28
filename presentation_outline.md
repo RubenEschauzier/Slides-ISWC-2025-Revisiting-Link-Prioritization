@@ -92,3 +92,10 @@ TODO
 
 ## Algorithms
 
+Just talk about algorithms tbh
+
+## Results
+
+Just talk
+
+
