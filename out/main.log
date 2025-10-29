@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  28 OCT 2025 16:42
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  29 OCT 2025 14:35
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1963,7 +1963,7 @@ are/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/l
 msso8.pfb>
-Output written on main.pdf (29 pages, 1393944 bytes).
+Output written on main.pdf (29 pages, 1393945 bytes).
 
 PDF statistics: 2585 PDF objects out of 2984 (max. 8388607)
  1692 compressed objects within 17 object streams
