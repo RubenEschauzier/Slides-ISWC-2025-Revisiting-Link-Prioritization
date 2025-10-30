@@ -18,7 +18,7 @@
                 \item The topology of the queried data
                 \item The query-relevant documents
             \end{itemize}
-            Result: limited prior knowledge for query optimization
+            Result: Limited prior knowledge for query optimization
         \end{column}
     \end{columns}
 \end{frame}
@@ -33,8 +33,8 @@
         % Right column: Text
         \begin{column}{0.4\textwidth}
             \begin{itemize}
+                \item Assume an optimize-then-execute paradigm
                 \item Query optimization for link traversal involves traditional (zero knowledge) query planning
-                \item Assume an optimize-then-execute
             \end{itemize}
         \end{column}
     \end{columns}
@@ -51,7 +51,7 @@
         \begin{column}{0.4\textwidth}
             \begin{itemize}
                 \item URIs are put into a link queue
-                \item Link traversal uses a FiFo queue by default
+                \item Link traversal uses a FIFO queue by default
             \end{itemize}
         \end{column}
     \end{columns}
@@ -71,7 +71,7 @@
             \begin{itemize}
                 \item Prioritize query-relevant URIs
                 \item Prune irrelevant URIs
-                \item Pruning can lead to missing results without prior knowledge
+                \item Pruning may cause results to be missed if no prior knowledge is available
             \end{itemize}
         \end{column}
     \end{columns}

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  29 OCT 2025 14:35
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.10.13)  30 OCT 2025 14:54
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1144,38 +1144,64 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen387
 \@vwid@roff=\dimen388
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count399
+\lst@gtempboxa=\box112
+\lst@token=\toks58
+\lst@length=\count400
+\lst@currlwidth=\dimen389
+\lst@column=\count401
+\lst@pos=\count402
+\lst@lostspace=\dimen390
+\lst@width=\dimen391
+\lst@newlines=\count403
+\lst@lineno=\count404
+\lst@maxwidth=\dimen392
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count405
+\lst@skipnumbers=\count406
+\lst@framebox=\box113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen389
-\captionmargin=\dimen390
-\caption@leftmargin=\dimen391
-\caption@rightmargin=\dimen392
-\caption@width=\dimen393
-\caption@indent=\dimen394
-\caption@parindent=\dimen395
-\caption@hangindent=\dimen396
+\caption@tempdima=\dimen393
+\captionmargin=\dimen394
+\caption@leftmargin=\dimen395
+\caption@rightmargin=\dimen396
+\caption@width=\dimen397
+\caption@indent=\dimen398
+\caption@parindent=\dimen399
+\caption@hangindent=\dimen400
 Package caption Info: beamer document class detected.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
 e beamer document classes (AR)
 ))
-\c@caption@flags=\count399
-\c@continuedfloat=\count400
+\c@caption@flags=\count407
+\c@continuedfloat=\count408
 Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
+Package caption Info: listings package is loaded.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count401
+\lrq@indent=\count409
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -1183,49 +1209,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count402
-\c@listtotal=\count403
-\c@listcount=\count404
-\c@liststart=\count405
-\c@liststop=\count406
-\c@citecount=\count407
-\c@citetotal=\count408
-\c@multicitecount=\count409
-\c@multicitetotal=\count410
-\c@instcount=\count411
-\c@maxnames=\count412
-\c@minnames=\count413
-\c@maxitems=\count414
-\c@minitems=\count415
-\c@citecounter=\count416
-\c@maxcitecounter=\count417
-\c@savedcitecounter=\count418
-\c@uniquelist=\count419
-\c@uniquename=\count420
-\c@refsection=\count421
-\c@refsegment=\count422
-\c@maxextratitle=\count423
-\c@maxextratitleyear=\count424
-\c@maxextraname=\count425
-\c@maxextradate=\count426
-\c@maxextraalpha=\count427
-\c@abbrvpenalty=\count428
-\c@highnamepenalty=\count429
-\c@lownamepenalty=\count430
-\c@maxparens=\count431
-\c@parenlevel=\count432
-\blx@tempcnta=\count433
-\blx@tempcntb=\count434
-\blx@tempcntc=\count435
-\c@blx@maxsection=\count436
-\blx@maxsegment@0=\count437
-\blx@notetype=\count438
-\blx@parenlevel@text=\count439
-\blx@parenlevel@foot=\count440
-\blx@sectionciteorder@0=\count441
-\blx@sectionciteorderinternal@0=\count442
-\blx@entrysetcounter=\count443
-\blx@biblioinstance=\count444
+\c@tabx@nest=\count410
+\c@listtotal=\count411
+\c@listcount=\count412
+\c@liststart=\count413
+\c@liststop=\count414
+\c@citecount=\count415
+\c@citetotal=\count416
+\c@multicitecount=\count417
+\c@multicitetotal=\count418
+\c@instcount=\count419
+\c@maxnames=\count420
+\c@minnames=\count421
+\c@maxitems=\count422
+\c@minitems=\count423
+\c@citecounter=\count424
+\c@maxcitecounter=\count425
+\c@savedcitecounter=\count426
+\c@uniquelist=\count427
+\c@uniquename=\count428
+\c@refsection=\count429
+\c@refsegment=\count430
+\c@maxextratitle=\count431
+\c@maxextratitleyear=\count432
+\c@maxextraname=\count433
+\c@maxextradate=\count434
+\c@maxextraalpha=\count435
+\c@abbrvpenalty=\count436
+\c@highnamepenalty=\count437
+\c@lownamepenalty=\count438
+\c@maxparens=\count439
+\c@parenlevel=\count440
+\blx@tempcnta=\count441
+\blx@tempcntb=\count442
+\blx@tempcntc=\count443
+\c@blx@maxsection=\count444
+\blx@maxsegment@0=\count445
+\blx@notetype=\count446
+\blx@parenlevel@text=\count447
+\blx@parenlevel@foot=\count448
+\blx@sectionciteorder@0=\count449
+\blx@sectionciteorderinternal@0=\count450
+\blx@entrysetcounter=\count451
+\blx@biblioinstance=\count452
 \labelnumberwidth=\skip79
 \labelalphawidth=\skip80
 \biblabelsep=\skip81
@@ -1237,9 +1263,9 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read3
 \blx@bcfout=\write5
 \blx@langwohyphens=\language2
-\c@mincomprange=\count445
-\c@maxcomprange=\count446
-\c@mincompwidth=\count447
+\c@mincomprange=\count453
+\c@maxcomprange=\count454
+\c@mincompwidth=\count455
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1250,74 +1276,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count448
-\c@savedafterword=\count449
-\c@annotator=\count450
-\c@savedannotator=\count451
-\c@author=\count452
-\c@savedauthor=\count453
-\c@bookauthor=\count454
-\c@savedbookauthor=\count455
-\c@commentator=\count456
-\c@savedcommentator=\count457
-\c@editor=\count458
-\c@savededitor=\count459
-\c@editora=\count460
-\c@savededitora=\count461
-\c@editorb=\count462
-\c@savededitorb=\count463
-\c@editorc=\count464
-\c@savededitorc=\count465
-\c@foreword=\count466
-\c@savedforeword=\count467
-\c@holder=\count468
-\c@savedholder=\count469
-\c@introduction=\count470
-\c@savedintroduction=\count471
-\c@namea=\count472
-\c@savednamea=\count473
-\c@nameb=\count474
-\c@savednameb=\count475
-\c@namec=\count476
-\c@savednamec=\count477
-\c@translator=\count478
-\c@savedtranslator=\count479
-\c@shortauthor=\count480
-\c@savedshortauthor=\count481
-\c@shorteditor=\count482
-\c@savedshorteditor=\count483
-\c@labelname=\count484
-\c@savedlabelname=\count485
-\c@institution=\count486
-\c@savedinstitution=\count487
-\c@lista=\count488
-\c@savedlista=\count489
-\c@listb=\count490
-\c@savedlistb=\count491
-\c@listc=\count492
-\c@savedlistc=\count493
-\c@listd=\count494
-\c@savedlistd=\count495
-\c@liste=\count496
-\c@savedliste=\count497
-\c@listf=\count498
-\c@savedlistf=\count499
-\c@location=\count500
-\c@savedlocation=\count501
-\c@organization=\count502
-\c@savedorganization=\count503
-\c@origlocation=\count504
-\c@savedoriglocation=\count505
-\c@origpublisher=\count506
-\c@savedorigpublisher=\count507
-\c@publisher=\count508
-\c@savedpublisher=\count509
-\c@language=\count510
-\c@savedlanguage=\count511
-\c@origlanguage=\count512
-\c@savedoriglanguage=\count513
-\c@pageref=\count514
-\c@savedpageref=\count515
+\c@afterword=\count456
+\c@savedafterword=\count457
+\c@annotator=\count458
+\c@savedannotator=\count459
+\c@author=\count460
+\c@savedauthor=\count461
+\c@bookauthor=\count462
+\c@savedbookauthor=\count463
+\c@commentator=\count464
+\c@savedcommentator=\count465
+\c@editor=\count466
+\c@savededitor=\count467
+\c@editora=\count468
+\c@savededitora=\count469
+\c@editorb=\count470
+\c@savededitorb=\count471
+\c@editorc=\count472
+\c@savededitorc=\count473
+\c@foreword=\count474
+\c@savedforeword=\count475
+\c@holder=\count476
+\c@savedholder=\count477
+\c@introduction=\count478
+\c@savedintroduction=\count479
+\c@namea=\count480
+\c@savednamea=\count481
+\c@nameb=\count482
+\c@savednameb=\count483
+\c@namec=\count484
+\c@savednamec=\count485
+\c@translator=\count486
+\c@savedtranslator=\count487
+\c@shortauthor=\count488
+\c@savedshortauthor=\count489
+\c@shorteditor=\count490
+\c@savedshorteditor=\count491
+\c@labelname=\count492
+\c@savedlabelname=\count493
+\c@institution=\count494
+\c@savedinstitution=\count495
+\c@lista=\count496
+\c@savedlista=\count497
+\c@listb=\count498
+\c@savedlistb=\count499
+\c@listc=\count500
+\c@savedlistc=\count501
+\c@listd=\count502
+\c@savedlistd=\count503
+\c@liste=\count504
+\c@savedliste=\count505
+\c@listf=\count506
+\c@savedlistf=\count507
+\c@location=\count508
+\c@savedlocation=\count509
+\c@organization=\count510
+\c@savedorganization=\count511
+\c@origlocation=\count512
+\c@savedoriglocation=\count513
+\c@origpublisher=\count514
+\c@savedorigpublisher=\count515
+\c@publisher=\count516
+\c@savedpublisher=\count517
+\c@language=\count518
+\c@savedlanguage=\count519
+\c@origlanguage=\count520
+\c@savedoriglanguage=\count521
+\c@pageref=\count522
+\c@savedpageref=\count523
 \shorthandwidth=\skip87
 \shortjournalwidth=\skip88
 \shortserieswidth=\skip89
@@ -1347,19 +1373,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count516
-\c@textcitetotal=\count517
-\c@textcitemaxnames=\count518
-\c@biburlbigbreakpenalty=\count519
-\c@biburlbreakpenalty=\count520
-\c@biburlnumpenalty=\count521
-\c@biburlucpenalty=\count522
-\c@biburllcpenalty=\count523
+\c@textcitecount=\count524
+\c@textcitetotal=\count525
+\c@textcitemaxnames=\count526
+\c@biburlbigbreakpenalty=\count527
+\c@biburlbreakpenalty=\count528
+\c@biburlnumpenalty=\count529
+\c@biburlucpenalty=\count530
+\c@biburllcpenalty=\count531
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count524
+\c@smartand=\count532
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -1371,8 +1397,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count525
-\c@bbx:relatedtotal=\count526
+\c@bbx:relatedcount=\count533
+\c@bbx:relatedtotal=\count534
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -1404,37 +1430,43 @@ Package biblatex Info: ... and expl3
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
+ (./out/main.aux
 
-(./out/main.aux)
+LaTeX Warning: Label `lst:sparql' multiply defined.
+
+)
 \openout1 = main.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-4.
+8.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1472,17 +1504,17 @@ LaTeX Font Info:    ... okay on input line 34.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count527
-\scratchdimen=\dimen397
-\scratchbox=\box112
-\nofMPsegments=\count528
-\nofMParguments=\count529
-\everyMPshowfont=\toks58
-\MPscratchCnt=\count530
-\MPscratchDim=\dimen398
-\MPnumerator=\count531
-\makeMPintoPDFobject=\count532
-\everyMPtoPDFconversion=\toks59
+\scratchcounter=\count535
+\scratchdimen=\dimen401
+\scratchbox=\box114
+\nofMPsegments=\count536
+\nofMParguments=\count537
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count538
+\MPscratchDim=\dimen402
+\MPnumerator=\count539
+\makeMPintoPDFobject=\count540
+\everyMPtoPDFconversion=\toks60
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1492,54 +1524,54 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 38.
 
 (./out/main.out) (./out/main.out)
 \@outlinefile=\write6
 
 \openout6 = main.out
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 38.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+(Font)                  OT1/cmss/m/n --> T1/lmr/m/n on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 34.
+(Font)                  OT1/cmr/bx/n --> T1/lmss/b/n on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 34.
+(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/lmss/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> T1/lmss/m/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/lmss/m/it on input line 34.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 34.
+(Font)                  OT1/cmr/bx/it --> T1/lmss/m/it on input line 38.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 34.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 34.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/lmr/b/n on input line 34.
+(Font)                  OT1/cmss/b/n --> T1/lmr/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 34.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 34.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 34.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 38.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 34.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1565,19 +1597,19 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 34.
-Package microtype Info: Applying patch `item' on input line 34.
-Package microtype Info: Applying patch `toc' on input line 34.
-Package microtype Info: Applying patch `eqnum' on input line 34.
-Package microtype Info: Applying patch `footnote' on input line 34.
-Package microtype Info: Applying patch `verbatim' on input line 34.
+LaTeX Info: Redefining \microtypecontext on input line 38.
+Package microtype Info: Applying patch `item' on input line 38.
+Package microtype Info: Applying patch `toc' on input line 38.
+Package microtype Info: Applying patch `eqnum' on input line 38.
+Package microtype Info: Applying patch `footnote' on input line 38.
+Package microtype Info: Applying patch `verbatim' on input line 38.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 34.
+LaTeX Info: Redefining \showhyphens on input line 38.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -1589,6 +1621,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (/usr/share/texlive/texmf-dist/tex/latex/ninecolors/ninecolors.sty
 Package: ninecolors 2022-02-13 v2022D Select colors with proper color contrast
 )
+\c@lstlisting=\count541
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
@@ -1607,10 +1640,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
 
 (./out/main.bbl)
-Package biblatex Info: Reference section=0 on input line 34.
-Package biblatex Info: Reference segment=0 on input line 34.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
  (./out/main.nav)
-Overfull \vbox (15.63992pt too high) detected at line 36
+Overfull \vbox (15.63992pt too high) detected at line 40
  []
 
 [1
@@ -1622,10 +1655,38 @@ Missing character: There is no – (U+2013) in font ec-lmss8!
 File: images/current-bad-message-situation.pdf Graphic file (type pdf)
 <use images/current-bad-message-situation.pdf>
 Package luatex.def Info: images/current-bad-message-situation.pdf  used on inpu
-t line 29.
+t line 44.
 (luatex.def)             Requested size: 203.1562pt x 212.11063pt.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 44.
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-29.
+44.
 
 (/usr/share/texmf/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -1635,7 +1696,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \vbox (21.71312pt too high) detected at line 29
+Overfull \vbox (11.93993pt too high) detected at line 44
  []
 
 [2
@@ -1645,10 +1706,10 @@ Overfull \vbox (21.71312pt too high) detected at line 29
 File: images/decentralized-message-storage.pdf Graphic file (type pdf)
 <use images/decentralized-message-storage.pdf>
 Package luatex.def Info: images/decentralized-message-storage.pdf  used on inpu
-t line 48.
+t line 62.
 (luatex.def)             Requested size: 215.10356pt x 213.22353pt.
 
-Overfull \vbox (22.82602pt too high) detected at line 48
+Overfull \vbox (22.82602pt too high) detected at line 62
  []
 
 [3
@@ -1657,7 +1718,7 @@ Overfull \vbox (22.82602pt too high) detected at line 48
 <images/how-to-find-sources.pdf, id=67, 510.58803pt x 645.75899pt>
 File: images/how-to-find-sources.pdf Graphic file (type pdf)
 <use images/how-to-find-sources.pdf>
-Package luatex.def Info: images/how-to-find-sources.pdf  used on input line 66.
+Package luatex.def Info: images/how-to-find-sources.pdf  used on input line 80.
 
 (luatex.def)             Requested size: 143.4048pt x 181.36307pt.
  [4
@@ -1753,34 +1814,6 @@ File: images/r3-metric-bad-traversal.pdf Graphic file (type pdf)
 Package luatex.def Info: images/r3-metric-bad-traversal.pdf  used on input line
  19.
 (luatex.def)             Requested size: 191.20082pt x 125.74554pt.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 19.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 19.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 19.
 <images/r3-metric-good-traversal.pdf, id=169, 605.50919pt x 398.22562pt>
 File: images/r3-metric-good-traversal.pdf Graphic file (type pdf)
 <use images/r3-metric-good-traversal.pdf>
@@ -1812,19 +1845,16 @@ Missing character: There is no → (U+2192) in font ec-lmss10!
 Missing character: There is no → (U+2192) in font ec-lmss10!
 ]) (./r3-metric/steiner-tree.tex [17
 
-]) (./solidbench/solidbench.tex
-Overfull \vbox (7.06624pt too high) detected at line 21
- []
+]) (./solidbench/solidbench.tex [18
 
-[18
-
-]) (./algorithms/used-algorithms.tex [19
+])
+(./algorithms/used-algorithms.tex [19
 
 ]
 <images/rcc-based.pdf, id=211, 515.48003pt x 398.22562pt>
 File: images/rcc-based.pdf Graphic file (type pdf)
 <use images/rcc-based.pdf>
-Package luatex.def Info: images/rcc-based.pdf  used on input line 39.
+Package luatex.def Info: images/rcc-based.pdf  used on input line 32.
 (luatex.def)             Requested size: 239.00558pt x 184.63826pt.
  [20
 
@@ -1834,13 +1864,12 @@ pt>
 File: images/intermediate-results-prioritization.pdf Graphic file (type pdf)
 <use images/intermediate-results-prioritization.pdf>
 Package luatex.def Info: images/intermediate-results-prioritization.pdf  used o
-n input line 56.
+n input line 49.
 (luatex.def)             Requested size: 239.00558pt x 155.25456pt.
-
-[21
+ [21
 
 <./images/intermediate-results-prioritization.pdf>]
-Overfull \vbox (6.30585pt too high) detected at line 90
+Overfull \vbox (6.30585pt too high) detected at line 76
  []
 
 [22
@@ -1918,7 +1947,42 @@ Overfull \vbox (15.7453pt too high) detected at line 83
 
 ]) [29
 
-</usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+</usr/share/texlive/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>] (./supp
+lemental/sparql-queries.tex
+\openout4 = main.vrb
+
+(./out/main.vrb
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 3
+.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 4.
+
+Overfull \hbox (1.77786pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+) [30
+
+]
+\openout4 = main.vrb
+ (./out/main.vrb
+warning  (pdf backend): ignoring duplicate destination with the name 'lst:sparql
+'
+
+Overfull \hbox (1.77786pt too wide) in paragraph at lines 4--5
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+) [31
+
+])
 \tf@nav=\write7
 
 \openout7 = main.nav
@@ -1933,6 +1997,10 @@ Overfull \vbox (15.7453pt too high) detected at line 83
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1941,15 +2009,16 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 43024 strings out of 476553
+ 44671 strings out of 476553
  125031,1977958 words of node,token memory allocated
- 9074 words of node memory still in use:
-   44 hlist, 8 vlist, 9 rule, 63 disc, 6 local_par, 176 glue, 39 kern, 50 penalt
-y, 9 margin_kern, 664 glyph, 193 attribute, 81 glue_spec, 193 attribute_list, 8 
-write, 4 pdf_dest, 58 pdf_colorstack nodes
-   avail lists: 1:3,2:347,3:207,4:216,5:197,6:39,7:1959,8:15,9:635,10:18,11:126
- 63781 multiletter control sequences out of 65536+600000
- 86 fonts using 5789639 bytes
+ 10438 words of node memory still in use:
+   276 hlist, 9 vlist, 73 rule, 3 disc, 10 local_par, 435 glue, 110 kern, 22 pen
+alty, 1 margin_kern, 271 glyph, 250 attribute, 81 glue_spec, 250 attribute_list,
+ 6 write, 18 pdf_colorstack nodes
+   avail lists: 1:2,2:603,3:237,4:264,5:370,6:33,7:2093,8:16,9:1209,10:18,11:186
+
+ 65378 multiletter control sequences out of 65536+600000
+ 88 fonts using 5952823 bytes
  115i,14n,133p,1870b,1987s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips
 /lm/lm-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cme
@@ -1962,11 +2031,12 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1
 are/texmf/fonts/type1/public/lm/lmss9.pfb></usr/share/texmf/fonts/type1/public/l
 m/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/l
-msso8.pfb>
-Output written on main.pdf (29 pages, 1393945 bytes).
+msso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtk10.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (31 pages, 1447672 bytes).
 
-PDF statistics: 2585 PDF objects out of 2984 (max. 8388607)
- 1692 compressed objects within 17 object streams
- 63 named destinations out of 1000 (max. 131072)
+PDF statistics: 2607 PDF objects out of 2984 (max. 8388607)
+ 1709 compressed objects within 18 object streams
+ 68 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -12,13 +12,6 @@
         \item In-degree, PageRank score
     \end{itemize}
   \end{block}
-  % \begin{block}{Result-based}
-  %       \begin{itemize}
-  %       \item Uses result contribution count (RCC) of each node (URI)
-  %       \item Priority equal to the sum / count of non-zero RCC of the 1 or 2-hop in-neighbours of a node
-  %       \item Called \emph{rcc-1}, \emph{rcc-2}, \emph{rel-1}, \emph{rel-2} respectively. 
-  %   \end{itemize}
-  % \end{block}
 \end{frame}
 
 \begin{frame}{Prioritization algorithms: Result Contribution-Based (RCC)}
@@ -60,13 +53,6 @@
 
 
 \begin{frame}{Prioritization algorithms}
-  % \begin{block}{Intermediate-results}
-  %       \begin{itemize}
-  %       \item Uses intermediate solutions in the engine
-  %       \item Priority of URI equal to the largest intermediate result with that URI bound
-  %       \item \emph{IS} sets initial priorities to 0, while \emph{ISdcr} sets priority to the priority of the parent node - 1
-  %   \end{itemize}
-  % \end{block}
   \begin{block}{Hybrid}
         \begin{itemize}
         \item Multiply intermediate result and RCC-based scoring functions
@@ -75,19 +61,16 @@
   \end{block}
   \begin{block}{TypeIndex}
         \begin{itemize}
-        \item TypeIndex points to location for resource of specific type
-        \item Prioritize TypeIndex
+        \item The typeIndexe point to location for resource of specific type
+        \item Prioritize TypeIndex first
     \end{itemize}
   \end{block}
   \begin{block}{Oracle}
         \begin{itemize}
         \item Compute RCC in hindsight
-        \item Scores are propegated through the shortest path
+        \item Scores are propagated through the shortest path
         \item Serves as optimal performance oracle
     \end{itemize}
   \end{block}
 
 \end{frame}
-
-% \begin{frame}[t]{Prioritization algorithms}
-% \end{frame}

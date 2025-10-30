@@ -14,6 +14,8 @@
 \usepackage{csquotes}
 \usepackage{adjustbox}
 \usepackage{hyperref}
+\usepackage{listings}
+\usepackage{xcolor}
 \usepackage[justification=centering]{caption}
 
 % --- Bibliography setup ---
@@ -24,6 +26,8 @@
   uniquename=false,
   giveninits=true
 ]{biblatex}
+
+\lstset{language=SQL,morekeywords={PREFIX,java,rdf,rdfs,url}}
 
 \addbibresource{references/references.bib}
 \title{Revisiting Link Prioritization for Efficient~Traversal in Structured Decentralized Environments}
@@ -58,6 +62,7 @@
   \printbibliography[heading=none]
 \end{frame}
 
+\input{supplemental/sparql-queries.tex}
 % NOTES:
 % Supplemental slides:
 % 

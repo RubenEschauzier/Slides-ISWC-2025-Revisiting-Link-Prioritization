@@ -10,16 +10,31 @@
 %       - Document serving of resources is less expressive (can answer less types of questions, just what is in the document)
 %         becomes less expensive per level of granularity fine-grained access control
 
-\begin{frame}{The Need for Decentralized Personal Data Storage}
-    \begin{columns}[T] % T aligns columns at the top
-        % Left column: Image
-        \begin{column}{0.6\textwidth} % Adjust width as needed
-            \includegraphics[width=.85\linewidth]{images/current-bad-message-situation.pdf} % replace with your image file
+% \begin{frame}{The Motivation for Decentralized Personal Data Storage}
+%     \begin{columns}[T] % T aligns columns at the top
+%         % Left column: Image
+%         \begin{column}{0.6\textwidth} % Adjust width as needed
+%             \includegraphics[width=.85\linewidth]{images/current-bad-message-situation.pdf} % replace with your image file
+%         \end{column}
+
+%         % Right column: Text
+%         \begin{column}{0.4\textwidth} % Adjust width as needed
+%             \begin{itemize}
+%                 \item Each application has its own data
+%                 \item Stifles innovation
+%                 \item Causes vendor lock-in
+%             \end{itemize}
+%         \end{column}
+%     \end{columns}
+% \end{frame}
+\begin{frame}{The Motivation for Decentralized Personal Data Storage}
+    \begin{columns}
+        \begin{column}{0.6\textwidth}
+            \includegraphics[width=.85\linewidth]{images/current-bad-message-situation.pdf}
         \end{column}
 
-        % Right column: Text
-        \begin{column}{0.4\textwidth} % Adjust width as needed
-            \begin{itemize}
+        \begin{column}{0.4\textwidth}
+            \begin{itemize}\setlength\itemsep{1em} % <-- added spacing here
                 \item Each application has its own data
                 \item Stifles innovation
                 \item Causes vendor lock-in
@@ -28,8 +43,7 @@
     \end{columns}
 \end{frame}
 
-
-\begin{frame}{The Need for Decentralized Personal Data Storage}
+\begin{frame}{The Motivation for Decentralized Personal Data Storage}
     \begin{columns}[T] % T aligns columns at the top
         % Left column: Image
         \begin{column}{0.6\textwidth} % Adjust width as needed
@@ -39,7 +53,7 @@
         % Right column: Text
         \begin{column}{0.4\textwidth} % Adjust width as needed
             \begin{itemize}
-                \item Each application uses common data storage
+                \item Each application accesses a common decentralized data environment
                 \item Easy to switch vendors
                 \item Promotes innovation
             \end{itemize}
@@ -59,7 +73,7 @@
         \begin{column}{0.4\textwidth} % Adjust width as needed
             \begin{itemize}
                 \item How do we discover these sources?
-                \item How do we ensure sufficient granularity of access control?
+                \item How do we ensure fine-grained access control?
             \end{itemize}
         \end{column}
     \end{columns}
